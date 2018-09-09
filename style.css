@@ -2,7 +2,7 @@ body{
   margin: 0;
 }
 header{
-  background-color: #1974ED;
+  background-color: #3333ff;
   color: white;
   padding: 8px 0px 6px 50px;
   height: 40px;
@@ -38,7 +38,7 @@ nav ul li a{
 .homepage{
   background-color: white;
   padding: 0px 7px 8px 9px;
-  color: #1974ED;
+  color: #3333ff;
   font-size: 22px;
 }
 .projectpage:hover{
