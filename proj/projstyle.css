@@ -43,7 +43,7 @@ nav ul li a{
   font-size: 22px;
 }
 .homepage:hover{
-  background-color: #1974ED;
+  font-color: #1974ED;
   padding: 0px 7px 7px 12px;
 }
 .achpage:hover{
