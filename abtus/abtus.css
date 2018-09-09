@@ -35,11 +35,15 @@ nav ul li a{
   float: left;
   text-decoration: none;
 }
-.homepage{
+.aboutuspage{
   background-color: white;
   padding: 0px 7px 8px 9px;
   color: #1974ED;
   font-size: 22px;
+}
+.homepage:hover{
+  background-color: #1974ED;
+  padding: 0px 7px 7px 12px;
 }
 .projectpage:hover{
   background-color: #ff3333;
@@ -47,10 +51,6 @@ nav ul li a{
 }
 .achpage:hover{
   background-color: #0EDCEB;
-  padding: 0px 7px 7px 12px;
-}
-.aboutuspage:hover{
-  background-color: #1974ED;
   padding: 0px 7px 7px 12px;
 }
 .Contactuspage:hover{

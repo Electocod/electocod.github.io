@@ -2,7 +2,7 @@ body{
   margin: 0;
 }
 header{
-  background-color: #1974ED;
+  background-color:  #ff3333;
   color: white;
   padding: 8px 0px 6px 50px;
   height: 40px;
@@ -35,15 +35,16 @@ nav ul li a{
   float: left;
   text-decoration: none;
 }
-.homepage{
+
+.projectpage{
   background-color: white;
   padding: 0px 7px 8px 9px;
-  color: #1974ED;
+  color: #ff3333;
   font-size: 22px;
 }
-.projectpage:hover{
-  background-color: #ff3333;
-  padding: 0px 7px 7px 9px;
+.homepage:hover{
+  background-color: #1974ED;
+  padding: 0px 7px 7px 12px;
 }
 .achpage:hover{
   background-color: #0EDCEB;
