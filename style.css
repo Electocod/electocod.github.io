@@ -41,21 +41,26 @@ nav ul li a{
   background-color: white;
   padding: 0px 7px 8px 9px;
   color: #1974ED;
+  font-family: 'PT Sans', sans-serif;
   font-size: 22px;
 }
 .projectpage:hover{
-  color: #00ff99;
+  color: #009933;
+  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 9px;
 }
 .achpage:hover{
-  background-color: #0EDCEB;
+  color: #ff6633;
+  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 12px;
 }
 .aboutuspage:hover{
-  background-color: #1974ED;
+  color: #996699;
+  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 12px;
 }
 .Contactuspage:hover{
-  background-color: #EB466D;
+  color: #EB466D;
+  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 12px;
 }
