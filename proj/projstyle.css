@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body{
   margin: 0;
+  font-family: 'PT Sans', sans-serif;
 }
 header{
-  background-color:  #00ff99;
+  background-color:  #009933;
   color: white;
   padding: 8px 0px 6px 50px;
   height: 40px;
@@ -39,22 +41,22 @@ nav ul li a{
 .projectpage{
   background-color: white;
   padding: 0px 7px 8px 9px;
-  color: #00ff99;
+  color: #009933;
   font-size: 22px;
 }
 .homepage:hover{
-  font-color: #1974ED;
+  color: #1974ed;
   padding: 0px 7px 7px 12px;
 }
 .achpage:hover{
-  background-color: #0EDCEB;
+  color: #ff6633;
   padding: 0px 7px 7px 12px;
 }
 .aboutuspage:hover{
-  background-color: #1974ED;
+  color: #996699;
   padding: 0px 7px 7px 12px;
 }
 .Contactuspage:hover{
-  background-color: #EB466D;
+  color: #eb466d;
   padding: 0px 7px 7px 12px;
 }
