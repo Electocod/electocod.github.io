@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body{
   margin: 0;
+  font-family: 'PT Sans', sans-serif;
 }
 header{
   background-color:  #EB466D;
@@ -11,7 +13,7 @@ header h1{
     display: inline;
     margin-top: 0px;
     margin-left: 40px;
-    font-weight: 400;
+    font-weight: 800;
     float: left;
 
 }
@@ -42,18 +44,18 @@ nav ul li a{
   font-size: 22px;
 }
 .homepage:hover{
-  background-color: #1974ED;
+  color: #1974ed;
   padding: 0px 7px 7px 12px;
 }
 .projectpage:hover{
-  background-color: #ff3333;
+  color: #009933;
   padding: 0px 7px 7px 9px;
 }
 .achpage:hover{
-  background-color: #0EDCEB;
+  color: #ff6633;
   padding: 0px 7px 7px 12px;
 }
 .aboutuspage:hover{
-  background-color: #1974ED;
+  color: #996699;
   padding: 0px 7px 7px 12px;
 }
