@@ -64,15 +64,15 @@ nav ul li a{
   font: left;
 }
 .loginbutton {
-  background-color: #ddd;
+  background-color: #1166d4;
   border: none;
-  color: black;
+  color: white;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   margin: 4px 2px;
-  cursor: pointer;
+  cursor: alias;
   border-radius: 16px;
 }
 .signupbutton {
