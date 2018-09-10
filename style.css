@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body{
   margin: 0;
+  font-family: 'PT Sans', sans-serif;
 }
 header{
   background-color: #1974ED;
@@ -46,17 +47,14 @@ nav ul li a{
 }
 .projectpage:hover{
   color: #009933;
-  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 9px;
 }
 .achpage:hover{
   color: #ff6633;
-  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 12px;
 }
 .aboutuspage:hover{
   color: #996699;
-  font-family: 'PT Sans', sans-serif;
   padding: 0px 7px 7px 12px;
 }
 .Contactuspage:hover{
