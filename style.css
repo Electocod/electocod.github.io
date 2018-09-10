@@ -76,7 +76,7 @@ nav ul li a{
   border-radius: 16px;
   position:relative;
   transition: .5s ease;
-  top: 50px;
+  top: 5px;
   left: 420px;
   right: -420px;
   bottom: -191px;
