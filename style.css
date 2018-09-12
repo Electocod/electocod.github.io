@@ -71,25 +71,51 @@ nav ul li a{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 4px 2px;
+  margin: 4px 2px 4px 2px;
   cursor: default;
   border-radius: 16px;
-  position:relative;
+  position:absolute;
   transition: .5s ease;
-  top: 5px;
-  left: 420px;
+  top: 15px;
+  left: 1220px;
   right: -420px;
   bottom: -191px;
+  height: 25px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+}
+.loginbutton:hover{
+  background-color: white;
+  color:#1166d4;
+  font-family: 'PT Sans', sans-serif;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .signupbutton {
-  background-color: #ddd;
+  background-color: #1166d4;
   border: none;
-  color: black;
-  padding: 10px 20px;
+  color: white;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
+  margin: 4px 2px 4px 2px;
+  cursor: default;
   border-radius: 16px;
+  position:absolute;
+  transition: .5s ease;
+  top: 15px;
+  left: 1280px;
+  right: -420px;
+  bottom: -191px;
+  height: 25px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+}
+.signupbutton:hover{
+  background-color: white;
+  color:#1166d4;
+  font-family: 'PT Sans', sans-serif;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
