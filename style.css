@@ -6,7 +6,8 @@ body{
 header{
   background-color: #1974ED;
   color: white;
-  padding: 8px 0px 6px 50px;
+  padding-top: 8px;
+  padding-bottom: 6px;
   height: 40px;
 }
 header h1{
