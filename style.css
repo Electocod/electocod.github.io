@@ -2,6 +2,7 @@
 body{
   margin: 0;
   font-family: 'PT Sans', sans-serif;
+  width: 80%;
 }
 header{
   background-color: #1974ED;
