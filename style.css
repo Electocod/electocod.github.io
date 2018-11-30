@@ -37,12 +37,6 @@ nav ul li a{
   float: left;
   text-decoration: none;
 }
-
-.projectpage:hover{
-  color: #1974ed;
-  padding: 0px 7px 7px 12px;
-
-}
 .homepage{
   
   background-color: white;
@@ -51,6 +45,12 @@ nav ul li a{
   font-size: 22px;
 
 }
+.projectpage:hover{
+  color: #1974ed;
+  padding: 0px 7px 7px 12px;
+
+}
+
 .achpage:hover{
   color: #ff6633;
   padding: 0px 7px 7px 12px;
