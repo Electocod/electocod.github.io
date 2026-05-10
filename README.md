@@ -1,2 +1,2 @@
 # electocod.github.io
-Web Designing going aweome
+Web Designing going wow
