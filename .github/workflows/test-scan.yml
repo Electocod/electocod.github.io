@@ -1,0 +1,12 @@
+name: security-scanner
+on:
+  pull_request:
+    types: 
+      - opened
+
+jobs:
+  npm-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: scan-run
+        run: echo "running audit"
